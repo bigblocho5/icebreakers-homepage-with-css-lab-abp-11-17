@@ -67,10 +67,12 @@ div.questions p {
   margin-top: 30px;
 }  
 div.questions a.btn {
-  border: 5px rounded #FFF;
-  text-color: white;
+  border-radius: 5px;
   background-color: #007bff;
   border-color: #007bff;
+  text-decoration: none;
+  padding: 18px;
+  font-size: 20px;
 }
 div.questions a.btn:hover {
   background-color: #0069d9;
