@@ -20,7 +20,7 @@ nav ul li {
   margin-right: 10px;
 }
 nav a {
-  display: none;
+  text-decoration: none;
   color: #007bff;
   font-size: 18px;
 }
