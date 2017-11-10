@@ -68,7 +68,9 @@ div.questions p {
 }  
 div.questions a.btn {
   border: 5px rounded #FFF;
-  
+  text-color: white;
+  background-color: #007bff;
+  border-color: #007bff;
 }
 div.questions a.btn:hover {
   background-color: #0069d9;
