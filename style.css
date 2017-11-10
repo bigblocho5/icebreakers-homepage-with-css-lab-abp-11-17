@@ -43,7 +43,7 @@ main {
   margin-top: 20px;
 }
 div.jumbotron {
-  border: round, 5px;
+  border-radius: round, 5px;
   background-color: #e9ecef;
   padding: 10px;
   text-align: center;
